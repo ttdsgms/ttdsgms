@@ -31,6 +31,7 @@
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
 	<img width="30" src="https://ttstatic.netlify.app/github/img/js.svg">
+</a>
 	
 ## Tools
 	
@@ -57,6 +58,9 @@
 </a>
 <a href="https://reactjs.org">
 	<img width="30" src="https://ttstatic.netlify.app/github/img/reactjs.svg">
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+	<img width="30" src="https://ttstatic.netlify.app/github/img/js.svg">
 </a>
 
 # Stats
