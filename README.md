@@ -56,12 +56,15 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
 	<img width="30" src="https://ttstatic.netlify.app/github/img/js.svg">
 </a>
+<!-- Não estou mais aprendendo, por enquanto. -->
+<!--
 <a href="https://nextjs.org">
 	<img width="30" src="https://ttstatic.netlify.app/github/img/nextjs.svg">
 </a>
 <a href="https://reactjs.org">
 	<img width="30" src="https://ttstatic.netlify.app/github/img/reactjs.svg">
 </a>
+-->
 
 # Stats
 
