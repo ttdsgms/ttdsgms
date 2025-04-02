@@ -32,6 +32,9 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
 	<img width="30" src="https://cdn.ttdsgms.com/github/img/js.svg">
 </a>
+<a href="https://astro.build">
+	<img width="30" src="https://astro.build/assets/press/astro-icon-light-gradient.svg">
+</a>
 	
 ## Tools
 	
@@ -51,13 +54,13 @@
 <a href="https://vercel.com">
 	<img width="30" src="https://cdn.ttdsgms.com/github/img/vercel.svg">
 </a>
-<a href="https://astro.build">
-	<img width="30" src="https://astro.build/assets/press/astro-icon-light-gradient.svg">
-</a>
 
 ## Currently studying
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
 	<img width="30" src="https://cdn.ttdsgms.com/github/img/js.svg">
+</a>
+<a href="https://astro.build">
+	<img width="30" src="https://astro.build/assets/press/astro-icon-light-gradient.svg">
 </a>
 
 # Stats
