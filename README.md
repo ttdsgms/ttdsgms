@@ -2,69 +2,63 @@
 
 #
 
-<img align="right" width="300" src="https://ttstatic.netlify.app/github/img/developer.svg" alt="Developer with actvity githubpanel on backgorud.">
+<img align="right" width="300" src="https://cdn.ttdsgms.com/github/img/developer.svg" alt="Developer with actvity githubpanel on backgorud.">
 
 <p>Frontend developer in learning. I'm from RN in Brazil. In my free time I like to play, code and make beats. I always want to learn more!</p>
 
 ## Social Media
 
 <a href="https://ttdsgms.netlify.app?utm_source=github&utm_medium=link&utm_campaign=githubreadme">
-	<img width="35" src="https://ttstatic.netlify.app/github/img/link.svg" alt="Website Homepage">
+	<img width="35" src="https://cdn.ttdsgms.com/github/img/link.svg" alt="Website Homepage">
 </a>
 <a href="https://www.instagram.com/ttdsgms">
-	<img width="35" src="https://ttstatic.netlify.app/github/img/instagram.svg" alt="Instagram"/>
+	<img width="35" src="https://cdn.ttdsgms.com/github/img/instagram.svg" alt="Instagram"/>
 </a>
 <a href="https://twitter.com/ttdsgms">
-	<img width="35" src="https://ttstatic.netlify.app/github/img/twitter.svg" alt="Twitter"/>
+	<img width="35" src="https://cdn.ttdsgms.com/github/img/twitter.svg" alt="Twitter"/>
 </a>
 <a href="https://ttdsgms.netlify.app/discord?utm_source=github&utm_medium=link&utm_campaign=githubreadme">
-	<img width="35" src="https://ttstatic.netlify.app/github/img/discord.svg" alt="Discord"/>
+	<img width="35" src="https://cdn.ttdsgms.com/github/img/discord.svg" alt="Discord"/>
 </a>
 
 ## Languages
 
 <a href="https://www.w3.org/html/">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/html.svg">
+	<img width="30" src="https://cdn.ttdsgms.com/github/img/html.svg">
 </a>
 <a href="https://www.w3.org/Style/CSS/">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/css.svg">
+	<img width="30" src="https://cdn.ttdsgms.com/github/img/css.svg">
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/js.svg">
+	<img width="30" src="https://cdn.ttdsgms.com/github/img/js.svg">
 </a>
 	
 ## Tools
 	
 </a>
 <a href="https://github.com/ttdsgms">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/github.svg">
+	<img width="30" src="https://cdn.ttdsgms.com/github/img/github.svg">
 </a>
 <a href="https://git-scm.com">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/git.svg"> 
+	<img width="30" src="https://cdn.ttdsgms.com/github/img/git.svg"> 
 </a>
 <a href="https://code.visualstudio.com">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/vscode.svg">
+	<img width="30" src="https://cdn.ttdsgms.com/github/img/vscode.svg">
 </a>
 <a href="https://netlify.com">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/netlify.svg">
+	<img width="30" src="https://cdn.ttdsgms.com/github/img/netlify.svg">
 </a>
 <a href="https://vercel.com">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/vercel.svg">
+	<img width="30" src="https://cdn.ttdsgms.com/github/img/vercel.svg">
+</a>
+<a href="https://astro.build">
+	<img width="30" src="https://astro.build/assets/press/astro-icon-light-gradient.svg">
 </a>
 
 ## Currently studying
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/js.svg">
+	<img width="30" src="https://cdn.ttdsgms.com/github/img/js.svg">
 </a>
-<!-- Não estou mais aprendendo, por enquanto. -->
-<!--
-<a href="https://nextjs.org">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/nextjs.svg">
-</a>
-<a href="https://reactjs.org">
-	<img width="30" src="https://ttstatic.netlify.app/github/img/reactjs.svg">
-</a>
--->
 
 # Stats
 
