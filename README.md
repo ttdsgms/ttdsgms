@@ -21,7 +21,7 @@
 	<img width="35" src="https://cdn.ttdsgms.com/github/img/discord.svg" alt="Discord"/>
 </a>
 
-## Languages
+## Languages and tools
 
 <a href="https://www.w3.org/html/">
 	<img width="30" src="https://cdn.ttdsgms.com/github/img/html.svg">
